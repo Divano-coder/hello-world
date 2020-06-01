@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hello, i'm Divano, and i'm a web develper.
